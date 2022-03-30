@@ -1,0 +1,13 @@
+button:
+  about: À propos de
+  back: Retour
+  go: Entrer
+  home: Accueil
+  toggle_dark: Basculer en mode sombre
+  toggle_lang: Changer de langue
+home:
+  welcome: Bienvenue dans la chat room
+chatroom:
+  whats_your_name: Comment t'appelles-tu ?
+  welcome: Bienvenue {name}!
+not_found: Page non trouvée

@@ -1,0 +1,13 @@
+button:
+  about: About
+  back: Back
+  go: Go
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_lang: Change language
+home:
+  welcome: Welcome in the chat room
+chatroom:
+  whats_your_name: What's your name?
+  welcome: Welcome {name}!
+not_found: Not found
